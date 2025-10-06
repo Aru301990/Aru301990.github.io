@@ -1,48 +1,78 @@
-# Aruna Vadde – QA Automation Engineer Portfolio
+# 👋 Hi, I'm Aruna Vadde
 
-Welcome to my personal portfolio website hosted on GitHub Pages!
-
-🔗 **Live Site:** [arunavadde.github.io](https://arunavadde.github.io)
-
----
-
-## 👩‍💻 About Me
-
-I am a QA Automation Engineer based in Bangalore, India. I specialize in automating web applications using Selenium with Python, building reliable test frameworks, and working with CI/CD pipelines to improve delivery speed and quality.
-
-My core skills include:
-- Selenium WebDriver with Python
-- Pytest and test automation frameworks
-- Continuous Integration / Continuous Deployment (CI/CD)
-- Agile methodologies and collaboration tools
+🌍 Based in **Bangalore, India**  
+💼 Passionate about **Test Automation** | 💻 Learning new technologies  
+🎯 Transitioning into **Automation Testing** with Selenium, Pytest, GitHub & more
 
 ---
 
-## 🗂️ Portfolio Contents
+## 💼 Work
 
-This repository contains:
-- My resume and professional summary
-- Projects demonstrating automation scripts and frameworks
-- Contact details and social media links
-- Deployment setup for GitHub Pages
+🔭 I’m currently exploring automation projects and building my **GitHub portfolio**
 
----
+👯 I’m open to collaborate on:
+- Entry-level automation testing projects
+- Selenium + Python test frameworks
+- GitHub Actions & CI/CD automation
 
-## 📬 Contact Me
-
-- 📍 Bangalore, India  
-- 📧 [aru.vadde@gmail.com](mailto:aru.vadde@gmail.com)  
-- 💼 [LinkedIn](https://linkedin.com/in/aruna-vadde)  
-- 💻 [GitHub](https://github.com/Aru301990)
+🤝 I’m looking for help with:
+- Best practices in Automation Frameworks  
+- Real-world project experience
 
 ---
 
-## 🚀 How to Run Locally
+## 🌱 I’m Currently Learning
 
-If you want to view or modify my portfolio locally:
+- Selenium WebDriver (Python)
+- Pytest framework
+- CI/CD with GitHub Actions
+- HTML/CSS (for test report customization)
+- Git & GitHub workflows
 
-```bash
-git clone https://github.com/Aru301990/arunavadde.github.io.git
-cd arunavadde.github.io
-# Open index.html in your browser or
-# Use VS Code Live Server extension to preview
+---
+
+## 💬 Ask Me About
+
+- Manual Testing
+- QA Processes
+- Switching from Manual to Automation Testing
+- Career tips for QA in tech industry
+
+---
+
+## 📫 How to Reach Me
+
+- 📧 [aru.vadde@gmail.com](mailto:aru.vadde@gmail.com)
+- 💼 [LinkedIn – aruna-vadde](https://linkedin.com/in/aruna-vadde)
+- 💻 [GitHub – Aru301990](https://github.com/Aru301990)
+
+---
+
+## 👨‍💻 Portfolio
+
+🌐 [My GitHub Portfolio Website](https://arunavadde.github.io)
+
+---
+
+## 📝 I Plan to Write On
+
+- How I transitioned into Automation
+- Beginner tips on Selenium + Python
+- Resume tips for QA Engineers
+
+---
+
+## 📄 Resume
+
+📄 [View My Resume](#) (https://drive.google.com/file/d/1tjeDj5RPb-dQb8ozgWPmUcVOHORi1A_g/view?usp=drive_link)
+
+---
+
+## ⚡ Fun Fact
+
+✨ I’m a multitasking mom, passionate learner, and always curious about tech – one script at a time!
+
+---
+
+> 🚀 _Thanks for visiting my profile! Let's connect and grow together._
+
